@@ -71,16 +71,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
+      {
       "key": "影探",
       "name": "探探┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./lib/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yt3353.lfytyl.com/api.php/app/"
+      "ext": "http://yt888168.lfytyl.com/api.php/app/"
     },
        {
       "key": "push_agent",
