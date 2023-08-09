@@ -82,6 +82,16 @@
       "filterable": 1,
       "ext": "http://yt888168.lfytyl.com/api.php/app/"
     },
+    {
+      "key": "csp_AList_Alist",
+      "name": "🍰小鸭┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xhww.fun:63/小米/源/alist.json"
+    },
        {
       "key": "push_agent",
       "name": "🛴手机┃推送",
