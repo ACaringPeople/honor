@@ -47,17 +47,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
-      "key": "csp_AList_Alist",
-      "name": "🍰小鸭┃网盘",
-      "type": 3,
-      "jar":"./0802.jar;md5;538304754b268f733245e29504f03254",
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./alist.json"
-    },
-    {
       "key": "csp_77",
       "name": "七七┃手机",
       "type": 3,
