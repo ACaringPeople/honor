@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;5b2f704da69aa9910a5246018d7baa6d",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
   "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "sites": [
     {
@@ -156,16 +156,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yt22106.lfytyl.com/api.php/app/"
-    },
-    {
-      "key": "csp_AList_Alist",
-      "name": "🍰小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://xhww.fun:63/小米/源/alist.json"
     },
        {
       "key": "push_agent",
@@ -361,7 +351,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/石榴.json"
+      "ext": "./lib/石榴.json"
     },
     {
       "key": "酷酷",
@@ -379,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "1",
-      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "jar": "./lib/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
       "api": "csp_XBPQ",
       "ext": {
         "站名": "黑狐影院",
@@ -530,10 +520,10 @@
       "key": "零度",
       "name": "零度┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "jar": "./lib/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/小刀.json"
+      "ext": "./lib/小刀.json"
     },
     {
       "key": "萌猫",
