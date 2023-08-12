@@ -1,0 +1,9 @@
+{
+"storeHouse": [
+{"sourceName":"个人最终gitee","sourceUrl":"https://gitee.com/tiantuhao/tv/raw/master/tian.json"},
+{"sourceName":"个人最终jihulab","sourceUrl":"https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json"},
+{"sourceName":"个人最终跑路","sourceUrl":"https://pan.shangui.cc/f/G5x0hz/tian.json"},
+{"sourceName":"个人最终Github","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/tvinterface/main/tian.json"},
+{"sourceName":"个人最终凯速网","sourceUrl":"https://download.kstore.space/download/4828/tian.json"},
+{"sourceName":"个人最终pastebin","sourceUrl":"https://pastebin.com/raw/JUW1LYr0"}
+]}
