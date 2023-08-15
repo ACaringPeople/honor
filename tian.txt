@@ -23,7 +23,11 @@
         {
             "url": "https://pastebin.com/raw/JUW1LYr0",
             "name": "个人最终pastebin"
-        },          	
+        },  
+        {
+            "url":"https://qu.ax/wUzw.json",
+            "name":"个人最终quax网"
+        },        	
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
