@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "js豆豆",
-      "name": "🐼️豆瓣┃推荐",
+      "name": "个人使用接口",
       "type": 3,
       "api":"https://gitee.com/tiantuhao/tv/raw/master/lib/drpy1.min.js",
       "ext":"https://gitee.com/tiantuhao/tv/raw/master/lib/drpy.js",
