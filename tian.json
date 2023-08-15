@@ -1294,7 +1294,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/tvlive.txt",
+      "url": "https://gitee.com/tiantuhao/tv/raw/master/lib/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
