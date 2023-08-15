@@ -22,6 +22,8 @@
       "filterable": 1,
       "changeable": 0
     },
+    {"key":"youku","name":"🔏官源|优酷","type":3,"api":"csp_YOUKU","searchable":1,"filterable":0,"changeable":0},
+    {"key":"360kan","name":"🔏官源|360","type":3,"api":"csp_KAN360","searchable":1,"filterable":0,"changeable":0},
     {
       "key": "优酷",
       "name": "🌟优酷┃(官)",
