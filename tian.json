@@ -509,7 +509,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      
+      "jar":"https://gitee.com/tiantuhao/tv/raw/master/lib/XYQ.jar",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E4%B9%90%E7%8C%AA.json"
     },
     {
