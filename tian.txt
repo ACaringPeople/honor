@@ -13,7 +13,7 @@
             "name": "个人最终跑路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/tvinterface/main/tian.json",
+            "url": "https://tiantuhao.github.io/tvinterface/tian.json",
             "name": "个人最终Github"
         }, 
          {
@@ -25,7 +25,7 @@
             "name": "个人最终pastebin"
         },  
         {
-            "url":"https://qu.ax/VZCt.json",
+            "url":"https://qu.ax/piBx.json",
             "name":"个人最终quax网"
         },        	
         {
