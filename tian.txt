@@ -25,7 +25,7 @@
             "name": "个人最终pastebin"
         },  
         {
-            "url":"https://qu.ax/piBx.json",
+            "url":"https://qu.ax/Vxxn.json",
             "name":"个人最终quax网"
         },        	
         {
