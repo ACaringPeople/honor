@@ -14,7 +14,11 @@
         },
         {
             "url": "https://tiantuhao.github.io/tvinterface/tian.json",
-            "name": "个人最终Github"
+            "name": "个人最终Github1"
+        }, 
+        {
+            "url": "https://tiantuhao.github.io/tvinterface/tian.json",
+            "name": "个人最终Github2"
         }, 
          {
             "url": "https://download.kstore.space/download/4828/tian.json",
