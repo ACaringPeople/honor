@@ -17,7 +17,7 @@
             "name": "个人最终Github1"
         }, 
         {
-            "url": "https://tiantuhao.github.io/tvinterface/tian.json",
+            "url": "https://ghproxy.com/https://tiantuhao.github.io/tvinterface/tian.json",
             "name": "个人最终Github2"
         }, 
          {
