@@ -3,16 +3,15 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "js豆豆",
-      "name": "个人使用接口",
+      "key": "豆豆",
+      "name": "豆瓣┃主页",
       "type": 3,
       "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-      "api":"https://gitee.com/tiantuhao/tv/raw/master/lib/drpy1.min.js",
-      "ext":"https://gitee.com/tiantuhao/tv/raw/master/lib/drpy.js",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    }, 
+    },
     {
       "key": "YGP",
       "name": "🚀叨观荐影┃速递",
@@ -236,13 +235,23 @@
       "key": "探探",
       "name": "🏵探探┃App",
       "type": 3,
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
       "playerType": "1",
       "api": "csp_YTVIP",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt"
+      "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
+    },
+{
+      "key": "365",
+      "name": "😎年年┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
+      "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
       "key": "csp_Nmys",
