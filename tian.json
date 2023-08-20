@@ -164,6 +164,7 @@
       "key": "飞飞影视",//随便写名字
       "name": "飞飞影视1┃BPQ",//随便写名字
       "type": 3,
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",//这个千万不要变
       "ext": {
         "分类url":"https://www.kaixinfang.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
@@ -174,7 +175,7 @@
       "key": "csp_XBPQ_feifei",
       "name": "📽️飞飞┃BPQ",
       "type": 3,
-      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "0",
@@ -191,7 +192,7 @@
           \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\",
           \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"
     },
-    {"key":"9yyq","name":"🍳九禹云q","type":3,"api":"csp_XBPQ","ext":{
+    {"key":"9yyq","name":"🍳九禹云q","type":3,"jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar","api":"csp_XBPQ","ext":{
   "分类url":"https://v.jiuyuyun.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
   "分类":"电影$1#连续剧$2#综艺$3#动漫$4"
    },
