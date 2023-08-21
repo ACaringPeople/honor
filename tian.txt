@@ -25,7 +25,7 @@
             "name": "个人最终Github1"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/tvinterface/master/tian.json",
+            "url": "https://s2.pub/GitHubTV",
             "name": "个人最终Github2"
         }, 
          {
