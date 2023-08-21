@@ -21,7 +21,7 @@
             "name": "个人最终Github2"
         }, 
         {
-            "url": "https://s2.pub/tiantuhao",
+            "url": "https://s2.pub/tian",
             "name": "个人最终吾爱"
         },
         {
