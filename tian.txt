@@ -5,8 +5,16 @@
             "name": "个人最终gitee"
         },
         {
+            "url": "https://gitea.com/tiantuhao/TV/raw/branch/main/tian.json",
+            "name": "个人最终gitea"
+        },
+        {
             "url": "https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json",
             "name": "个人最终jihulab"
+        },
+        {
+            "url": "https://s2.pub/tiantuhao",
+            "name": "个人最终吾爱"
         },
         {
             "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
@@ -17,7 +25,7 @@
             "name": "个人最终Github1"
         }, 
         {
-            "url": "https://ghproxy.com/https://tiantuhao.github.io/tvinterface/tian.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/tvinterface/master/tian.json",
             "name": "个人最终Github2"
         }, 
          {
