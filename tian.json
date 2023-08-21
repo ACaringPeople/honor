@@ -1178,7 +1178,16 @@
 				"分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
 				"分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
 			}
-		}
+		},
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    }
 	],
 	"parses": [
 		{
