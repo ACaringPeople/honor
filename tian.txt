@@ -13,14 +13,6 @@
             "name": "个人最终jihulab"
         },
         {
-            "url": "https://s2.pub/tiantuhao",
-            "name": "个人最终吾爱"
-        },
-        {
-            "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
-            "name": "个人最终跑路"
-        },
-        {
             "url": "https://tiantuhao.github.io/tvinterface/tian.json",
             "name": "个人最终Github1"
         }, 
@@ -28,6 +20,14 @@
             "url": "https://s2.pub/GitHubTV",
             "name": "个人最终Github2"
         }, 
+        {
+            "url": "https://s2.pub/tiantuhao",
+            "name": "个人最终吾爱"
+        },
+        {
+            "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
+            "name": "个人最终跑路"
+        },
          {
             "url": "https://download.kstore.space/download/4828/tian.json",
             "name": "个人最终凯速网"
