@@ -5,10 +5,6 @@
             "name": "个人最终gitee"
         },
         {
-            "url": "https://gitea.com/tiantuhao/TV/raw/branch/main/tian.json",
-            "name": "个人最终gitea"
-        },
-        {
             "url": "https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json",
             "name": "个人最终jihulab"
         },
