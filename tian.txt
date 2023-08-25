@@ -13,7 +13,7 @@
             "name": "个人最终Github1"
         }, 
         {
-            "url": "https://s2.pub/GitHubTV",
+            "url": "https://s2.pub/GitHubHonor",
             "name": "个人最终Github2"
         }, 
         {
