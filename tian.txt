@@ -5,7 +5,7 @@
             "name": "个人最终gitee"
         },
         {
-            "url": "https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json",
+            "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
             "name": "个人最终jihulab"
         },
         {
