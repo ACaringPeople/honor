@@ -101,6 +101,16 @@
 			"changeable": 0,
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
 		},
+	 {
+      "key": "B站影视",
+      "name": "💕|B站影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url":"https://bzhanyy.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类":"电影$1#电视剧$2#动漫$4#综艺$3"
+    }
+    },
 		{
 			"key": "csp_XBPQ_feifei",
 			"name": "💞田|飞飞BPQ",
