@@ -84,7 +84,7 @@
 		},
 	 {
       "key": "B站影视",
-      "name": "💕|B站影视",
+      "name": "🍒田|B站影视",
       "type": 3,
 		  "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -614,10 +614,11 @@
 			"key": "酷酷",
 			"name": "🍒田|酷酷App",
 			"type": 3,
-			"api": "csp_Kuying",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cms.realdou.cn:35264/api.php/app/"
 		},
 		{
 			"key": "迪迪",
