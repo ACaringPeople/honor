@@ -4,7 +4,7 @@
 	"sites": [
 		{
 			"key": "豆豆",
-			"name": "💞田|豆瓣推荐",
+			"name": "🍒田|豆瓣推荐",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -13,7 +13,7 @@
 		},
 		{
 			"key": "csp_wogg_cli",
-			"name": "💞田|玩偶T4",
+			"name": "🍒田|玩偶T4",
 			"type": 4,
 			"api": "http://home.jundie.top:9520/spider/csp_Wogg",
 			"searchable": 1,
@@ -23,7 +23,7 @@
 		},
 		{
 			"key": "荐片",
-			"name": "💞田|荐片(cli)",
+			"name": "🍒田|荐片(cli)",
 			"type": 4,
 			"api": "http://home.jundie.top:9520/spider/csp_JP",
 			"searchable": 1,
@@ -32,7 +32,7 @@
 		},
 		{
 			"key": "Itv",
-			"name": "💞田|爱官",
+			"name": "🍒田|爱官",
 			"type": 3,
 			"api": "csp_Itv",
 			"quickSearch": 1,
@@ -42,7 +42,7 @@
 		},
 		{
 			"key": "ytv",
-			"name": "💞田|优官",
+			"name": "🍒田|优官",
 			"type": 3,
 			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
 			"api": "csp_YOUKU",
@@ -52,7 +52,7 @@
 		},
 		{
 			"key": "360kan",
-			"name": "💞田|360(官)",
+			"name": "🍒田|360(官)",
 			"type": 3,
 			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
 			"api": "csp_KAN360",
@@ -62,7 +62,7 @@
 		},
 		{
 			"key": "cc",
-			"name": "💞田|yang官",
+			"name": "🍒田|yang官",
 			"type": 3,
 			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
 			"api": "csp_CCTV",
@@ -73,7 +73,7 @@
 		},
 		{
 			"key": "Qtv",
-			"name": "💞田|腾官",
+			"name": "🍒田|腾官",
 			"type": 3,
 			"api": "csp_Qtv",
 			"searchable": 1,
@@ -83,7 +83,7 @@
 		},
 		{
 			"key": "Mtv",
-			"name": "💞田|芒官",
+			"name": "🍒田|芒官",
 			"type": 3,
 			"api": "csp_Mtv",
 			"searchable": 1,
@@ -93,7 +93,7 @@
 		},
 		{
 			"key": "csp_WoGG",
-			"name": "💞田|玩偶4K",
+			"name": "🍒田|玩偶4K",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -114,7 +114,7 @@
     },
 		{
 			"key": "csp_XBPQ_feifei",
-			"name": "💞田|飞飞BPQ",
+			"name": "🍒田|飞飞BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"searchable": "1",
@@ -135,7 +135,7 @@
 		},
 		{
 			"key": "9yyq",
-			"name": "💞田|九禹云Q",
+			"name": "🍒田|九禹云Q",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -146,7 +146,7 @@
 		},
 		{
 			"key": "酷爱",
-			"name": "💞田|酷爱剧院",
+			"name": "🍒田|酷爱剧院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -176,7 +176,7 @@
 		},
 		{
       "key": "Lib",
-      "name": "💞田|利播直连",
+      "name": "🍒田|利播直连",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -186,7 +186,7 @@
     },
     {
       "key": "csp_兔瓜",
-      "name": "💞田|兔瓜影视",
+      "name": "🍒田|兔瓜影视",
       "type": 3,
       "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -197,7 +197,7 @@
     },
 		{
 			"key": "77",
-			"name": "💞田|七七App",
+			"name": "🍒田|七七App",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -206,7 +206,7 @@
 		},
 		{
 			"key": "Vofl",
-			"name": "💞田|VOF直连",
+			"name": "🍒田|VOF直连",
 			"type": 3,
 			"api": "csp_Voflix",
 			"searchable": 1,
@@ -215,7 +215,7 @@
 		},
 	  {
       "key": "348",
-      "name": "💞田|348BPQ",
+      "name": "🍒田|348BPQ",
       "type": 3,
       "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -224,7 +224,7 @@
     },
     {
       "key": "csp_101",
-      "name": "💞田|摇玲影视",
+      "name": "🍒田|摇玲影视",
       "type": 3,
       "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -235,7 +235,7 @@
     },
 		{
 			"key": "csp_花猫",
-			"name": "💞田|花猫影视",
+			"name": "🍒田|花猫影视",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -246,7 +246,7 @@
 		},
 		{
       "key": "csp_量子",
-      "name": "💞田|量子BPQ",
+      "name": "🍒田|量子BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -257,7 +257,7 @@
     },
     {
       "key": "csp_真不卡",
-      "name": "💞田|不卡BPQ",
+      "name": "🍒田|不卡BPQ",
       "type": 3,
       "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -268,7 +268,7 @@
     },
     {
       "key": "csp_七年",
-      "name": "💞田|七年BPQ",
+      "name": "🍒田|七年BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -279,7 +279,7 @@
     },
 		{
 			"key": "如意",
-			"name": "💞田|如意蓝光",
+			"name": "🍒田|如意蓝光",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -295,7 +295,7 @@
 		},
 		{
 			"key": "探探",
-			"name": "💞田|探探App",
+			"name": "🍒田|探探App",
 			"type": 3,
 			"playerType": "1",
       "api": "csp_YTVIP",
@@ -306,7 +306,7 @@
 		},
 		{
 			"key": "csp_Nmys",
-			"name": "💞田|农民直连",
+			"name": "🍒田|农民直连",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -317,7 +317,7 @@
 		},
 		{
 			"key": "csp_Ysgc",
-			"name": "💞田|工场直连",
+			"name": "🍒田|工场直连",
 			"type": 3,
 			"api": "csp_Ysgc",
 			"searchable": 1,
@@ -327,7 +327,7 @@
 		},
 		{
 			"key": "七夜",
-			"name": "💞田|七夜搜索",
+			"name": "🍒田|七夜搜索",
 			"type": 3,
 			"api": "csp_Dovx",
 			"searchable": 1,
@@ -337,7 +337,7 @@
 		},
 		{
 			"key": "PanSou",
-			"name": "💞田|盘搜搜索",
+			"name": "🍒田|盘搜搜索",
 			"type": 3,
 			"api": "csp_PanSou",
 			"searchable": 1,
@@ -347,7 +347,7 @@
 		},
 		{
 			"key": "YiSo",
-			"name": "💞田|易搜搜索",
+			"name": "🍒田|易搜搜索",
 			"type": 3,
 			"api": "csp_YiSo",
 			"searchable": 1,
@@ -357,7 +357,7 @@
 		},
 		{
 			"key": "Zhaozy",
-			"name": "💞田|找资源搜索",
+			"name": "🍒田|找资源搜索",
 			"type": 3,
 			"api": "csp_Zhaozy",
 			"searchable": 1,
@@ -367,7 +367,7 @@
 		},
 		{
 			"key": "UpYun",
-			"name": "💞田|Up搜搜索",
+			"name": "🍒田|Up搜搜索",
 			"type": 3,
 			"api": "csp_UpYun",
 			"searchable": 1,
@@ -377,7 +377,7 @@
 		},
 		{
 			"key": "PanSearch",
-			"name": "💞田|盘Se搜索",
+			"name": "🍒田|盘Se搜索",
 			"type": 3,
 			"api": "csp_PanSearch",
 			"searchable": 1,
@@ -387,7 +387,7 @@
 		},
 		{
 			"key": "Gitcafe",
-			"name": "💞田|小纸条搜索",
+			"name": "🍒田|小纸条搜索",
 			"type": 3,
 			"api": "csp_Gitcafe",
 			"playerType": 1,
@@ -399,7 +399,7 @@
 		},
 		{
 			"key": "csp_AliPS",
-			"name": "💞田|喵狸盘搜",
+			"name": "🍒田|喵狸盘搜",
 			"type": 3,
 			"api": "csp_AliPS",
 			"playerType": 1,
@@ -411,7 +411,7 @@
 		},
 		{
 			"key": "csp_XYQHikerAL_我的小站",
-			"name": "💞田|我的小站搜索",
+			"name": "🍒田|我的小站搜索",
 			"type": 3,
 			"api": "csp_XYQHikerAL",
 			"playerType": 1,
@@ -423,7 +423,7 @@
 		},
 		{
 			"key": "csp_XYQHikerAL_阿里云盘网",
-			"name": "💞田|阿里云盘搜索",
+			"name": "🍒田|阿里云盘搜索",
 			"type": 3,
 			"api": "csp_XYQHikerAL",
 			"playerType": 1,
@@ -435,7 +435,7 @@
 		},
 		{
 			"key": "csp_XYQHikerAL_橘子盘搜",
-			"name": "💞田|橘子盘搜搜索",
+			"name": "🍒田|橘子盘搜搜索",
 			"type": 3,
 			"api": "csp_XYQHikerAL",
 			"playerType": 1,
@@ -447,7 +447,7 @@
 		},
 		{
 			"key": "csp_XYQHiker_DOVX搜索",
-			"name": "💞田|DOVX搜索",
+			"name": "🍒田|DOVX搜索",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"playerType": 1,
@@ -459,7 +459,7 @@
 		},
 		{
       "key": "csp_XYQHiker_土拨鼠搜索",
-      "name": "💞田|土拨鼠搜索",
+      "name": "🍒田|土拨鼠搜索",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
@@ -471,7 +471,7 @@
     },
     {
       "key": "csp_XYQHikerAL_豆豆飞",
-      "name": "💞田|豆豆飞搜索",
+      "name": "🍒田|豆豆飞搜索",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -483,7 +483,7 @@
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
-      "name": "💞田|云盘资源搜索",
+      "name": "🍒田|云盘资源搜索",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -495,7 +495,7 @@
     },
 		{
 			"key": "csp_DiDuan",
-			"name": "💞田|低端直连",
+			"name": "🍒田|低端直连",
 			"type": 3,
 			"api": "csp_Ddrk",
 			"searchable": 1,
@@ -504,7 +504,7 @@
 		},
 		{
 			"key": "csp_fantuan",
-			"name": "💞田|饭团直连",
+			"name": "🍒田|饭团直连",
 			"type": 3,
 			"api": "csp_Fantuan",
 			"searchable": 1,
@@ -514,7 +514,7 @@
 		},
 		{
 			"key": "csp_zxzj",
-			"name": "💞田|在线直连",
+			"name": "🍒田|在线直连",
 			"type": 3,
 			"api": "csp_Zxzj",
 			"searchable": 1,
@@ -524,7 +524,7 @@
 		},
 		{
 			"key": "TVB云播",
-			"name": "💞田|TVB直连",
+			"name": "🍒田|TVB直连",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -534,7 +534,7 @@
 		},
 		{
 			"key": "csp_Auete",
-			"name": "💞田|奥特直连",
+			"name": "🍒田|奥特直连",
 			"type": 3,
 			"api": "csp_Auete",
 			"searchable": 1,
@@ -543,7 +543,7 @@
 		},
 		{
 			"key": "csp_Ysgc",
-			"name": "💞田|影视直连",
+			"name": "🍒田|影视直连",
 			"type": 3,
 			"api": "csp_Ysgc",
 			"searchable": 1,
@@ -553,7 +553,7 @@
 		},
     {
       "key": "Czsapp",
-      "name": "💞田|厂长直连",
+      "name": "🍒田|厂长直连",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -563,7 +563,7 @@
     },
     {
       "key": "奇奇",
-      "name": "💞田|奇奇App",
+      "name": "🍒田|奇奇App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -573,7 +573,7 @@
     },
 		{
 			"key": "陌陌",
-			"name": "💞田|陌陌App",
+			"name": "🍒田|陌陌App",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -583,7 +583,7 @@
 		},
     {
       "key": "哈喽",
-      "name": "💞田|哈喽App",
+      "name": "🍒田|哈喽App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -593,7 +593,7 @@
     },
 		{
 			"key": "酷影",
-			"name": "💞田|泰泰APP",
+			"name": "🍒田|泰泰APP",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
@@ -604,7 +604,7 @@
 		},
 		{
 			"key": "365",
-			"name": "💞田|年年APP",
+			"name": "🍒田|年年APP",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -615,7 +615,7 @@
 		},
 		{
 			"key": "酷酷",
-			"name": "💞田|酷酷App",
+			"name": "🍒田|酷酷App",
 			"type": 3,
 			"api": "csp_Kuying",
 			"searchable": 1,
@@ -624,7 +624,7 @@
 		},
 		{
 			"key": "迪迪",
-			"name": "💞田|迪迪App",
+			"name": "🍒田|迪迪App",
 			"api": "csp_AppYsV2",
 			"type": 3,
 			"searchable": 1,
@@ -634,7 +634,7 @@
 		},
     {
       "key": "YQKAPP",
-      "name": "💞田|一起App",
+      "name": "🍒田|一起App",
       "type": 3,
       "api": "csp_YQKAPP",
       "playerType": 2,
@@ -645,7 +645,7 @@
     },
     {
       "key": "AppMr",
-      "name": "💞田|明明App",
+      "name": "🍒田|明明App",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -654,7 +654,7 @@
     },
 		{
 			"key": "瑞丰",
-			"name": "💞田|辣辣APP",
+			"name": "🍒田|辣辣APP",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -664,7 +664,7 @@
 		},
 		{
 			"key": "落落",
-			"name": "💞田|落落APP",
+			"name": "🍒田|落落APP",
 			"type": 3,
 			"api": "csp_AppYs",
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
@@ -675,7 +675,7 @@
 		},
 		{
 			"key": "BQ",
-			"name": "💞田|八千APP",
+			"name": "🍒田|八千APP",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
@@ -686,7 +686,7 @@
 		},
 		{
 			"key": "鸭鸭",
-			"name": "💞田|鸭鸭影视",
+			"name": "🍒田|鸭鸭影视",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -696,7 +696,7 @@
 		},
 		{
 			"key": "速映影视",
-			"name": "💞田|速映影视",
+			"name": "🍒田|速映影视",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -707,7 +707,7 @@
 		},
 		{
 			"key": "笑笑影视",
-			"name": "💞田|笑笑影视",
+			"name": "🍒田|笑笑影视",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -718,7 +718,7 @@
 		},
     {
       "key": "利播",
-      "name": "💞田|利播BPQ",
+      "name": "🍒田|利播BPQ",
       "type": 3,
       "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -726,7 +726,7 @@
     },
 		{
 			"key": "圣城影视",
-			"name": "💞田|圣城影视",
+			"name": "🍒田|圣城影视",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -737,7 +737,7 @@
 		},
 		{
 			"key": "明帝影视",
-			"name": "💞田|明帝影视",
+			"name": "🍒田|明帝影视",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -747,7 +747,7 @@
 		},
 		{
 			"key": "无心影视",
-			"name": "💞田|无心影视",
+			"name": "🍒田|无心影视",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -758,7 +758,7 @@
 		},
 		{
 			"key": "迷你库",
-			"name": "💞田|迷你影视",
+			"name": "🍒田|迷你影视",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -768,7 +768,7 @@
 		},
 		{
 			"key": "Lezhu",
-			"name": "💞田|乐猪影视",
+			"name": "🍒田|乐猪影视",
 			"api": "csp_XYQHiker",
 			"type": 3,
 			"filterable": 1,
@@ -779,7 +779,7 @@
 		},
 		{
       "key": "深蓝影视",
-      "name": "💞田|深蓝影视",
+      "name": "🍒田|深蓝影视",
       "type": 3,
       "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -798,7 +798,7 @@
     },
 		{
 			"key": "龟龟",
-			"name": "💞田|龟龟BPQ",
+			"name": "🍒田|龟龟BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -823,7 +823,7 @@
 		},
 		{
 			"key": "萌猫",
-			"name": "💞田|萌猫BPQ",
+			"name": "🍒田|萌猫BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -857,7 +857,7 @@
 		},
 		{
 			"key": "莱米",
-			"name": "💞田|莱米BPQ",
+			"name": "🍒田|莱米BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -890,7 +890,7 @@
 		},
 		{
 			"key": "双黄",
-			"name": "💞田|双黄BPQ",
+			"name": "🍒田|双黄BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -908,7 +908,7 @@
 		},
 		{
 			"key": "土豪",
-			"name": "💞田|土豪BPQ",
+			"name": "🍒田|土豪BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -932,7 +932,7 @@
 		},
 		{
 			"key": "鲸落",
-			"name": "💞田|鲸落BPQ",
+			"name": "🍒田|鲸落BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"searchable": 1,
@@ -968,7 +968,7 @@
 		},
 		{
 			"key": "csp_XBPQ_JOJO",
-			"name": "💞田|JOJO",
+			"name": "🍒田|JOJO",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -991,7 +991,7 @@
 		},
 		{
 			"key": "兔兔",
-			"name": "💞田|兔兔BPQ",
+			"name": "🍒田|兔兔BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"searchable": 1,
@@ -1022,7 +1022,7 @@
 		},
 		{
 			"key": "臭蛋",
-			"name": "💞田|臭蛋BPQ",
+			"name": "🍒田|臭蛋BPQ",
 			"type": 3,
 			"jar": "http://xhww.fun:63/小米/5.jar",
 			"api": "csp_XBPQ",
@@ -1039,7 +1039,7 @@
 		},
 		{
 			"key": "南瓜",
-			"name": "💞田|南瓜APP",
+			"name": "🍒田|南瓜APP",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -1049,7 +1049,7 @@
 		},
 		{
 			"key": "素白",
-			"name": "💞田|素白BPQ",
+			"name": "🍒田|素白BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -1058,7 +1058,7 @@
 		},
 		{
 			"key": "奇优",
-			"name": "💞田|奇优BPQ",
+			"name": "🍒田|奇优BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -1067,7 +1067,7 @@
 		},
 		{
 			"key": "速搜",
-			"name": "💞田|速搜BPQ",
+			"name": "🍒田|速搜BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -1076,7 +1076,7 @@
 		},
 		{
 			"key": "热播库",
-			"name": "💞田|热播BPQ",
+			"name": "🍒田|热播BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -1085,7 +1085,7 @@
 		},
 		{
       "key": "csp_小鹿",
-      "name": "💞田|小鹿BPQ",
+      "name": "🍒田|小鹿BPQ",
       "type": 3,
       "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
@@ -1106,7 +1106,7 @@
     },
 		{
 			"key": "金曼影视",
-			"name": "💞田|金曼BPQ",
+			"name": "🍒田|金曼BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -1117,7 +1117,7 @@
 		},
 		{
 			"key": "星辰",
-			"name": "💞田|星辰BPQ",
+			"name": "🍒田|星辰BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
@@ -1126,7 +1126,7 @@
 		},
 		{
 			"key": "石榴",
-			"name": "💞田|石榴BPQ",
+			"name": "🍒田|石榴BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -1135,7 +1135,7 @@
 		},
 		{
 			"key": "串串",
-			"name": "💞田|串串BPQ",
+			"name": "🍒田|串串BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"api": "csp_XBPQ",
@@ -1160,7 +1160,7 @@
 		},
 		{
 			"key": "耐看",
-			"name": "💞田|耐看BPQ",
+			"name": "🍒田|耐看BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
@@ -1169,7 +1169,7 @@
 		},
 		{
 			"key": "看看",
-			"name": "💞田|看看BPQ",
+			"name": "🍒田|看看BPQ",
 			"type": 3,
 			"jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
 			"playerType": "1",
@@ -1194,7 +1194,7 @@
 		},
 		{
       "key": "push_agent",
-      "name": "💞田|手机推送",
+      "name": "🍒田|手机推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
