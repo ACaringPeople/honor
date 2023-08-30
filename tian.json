@@ -1,6 +1,6 @@
 {
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+	"wallpaper": "https://tool.weetai.cn/api",
 	"sites": [
 		{
 			"key": "豆豆",
@@ -10,25 +10,6 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
-		},
-		{
-			"key": "csp_wogg_cli",
-			"name": "🍒田|玩偶T4",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/csp_Wogg",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
-		},
-		{
-			"key": "荐片",
-			"name": "🍒田|荐片(cli)",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/csp_JP",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "Itv",
@@ -54,11 +35,11 @@
 			"key": "360kan",
 			"name": "🍒田|360(官)",
 			"type": 3,
-			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
-			"api": "csp_KAN360",
-			"searchable": 1,
-			"filterable": 0,
-			"changeable": 0
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
 		},
 		{
 			"key": "cc",
@@ -564,12 +545,9 @@
     {
       "key": "奇奇",
       "name": "🍒田|奇奇App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://ttsp.live/api.php/app/"
+      "type": 1,
+      "api": "http://nb.xzam.cn:66/api.php/provide/vod/",
+      "playUrl": "json:https://dx.maclsj.com/blue/json.php?url="
     },
 		{
 			"key": "陌陌",
@@ -602,6 +580,25 @@
 			"filterable": 1,
 			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
 		},
+		{
+      "key": "qq2k",
+      "name": "🍒田|QQAPP",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "KW2k",
+      "name": "🍒田|酷玩APP",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/kuwan2k.js"
+    },
 		{
 			"key": "365",
 			"name": "🍒田|年年APP",
@@ -642,6 +639,23 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://api-aws.11ty.top"
+    },
+    {
+      "key": "kuaikan",
+      "name": "🍒田|快看App",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "云云",
+      "name": "🍒田|云云BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
+      "ext": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/yunyun.json"
     },
     {
       "key": "AppMr",
