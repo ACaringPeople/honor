@@ -105,7 +105,7 @@
       "key": "B站影视",
       "name": "💕|B站影视",
       "type": 3,
-			   "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
+		  "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url":"https://bzhanyy.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -213,6 +213,26 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
+	  {
+      "key": "348",
+      "name": "💞田|348BPQ",
+      "type": 3,
+      "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/348.json"
+    },
+    {
+      "key": "csp_101",
+      "name": "💞田|摇玲影视",
+      "type": 3,
+      "jar": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/5.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://codeberg.org/tiantuhao/honor/raw/branch/master/lib/101影视.json"
+    },
 		{
 			"key": "csp_花猫",
 			"name": "💞田|花猫影视",
