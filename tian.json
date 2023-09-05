@@ -13,7 +13,7 @@
     },
     {
       "key": "Itv",
-      "name": "🍒田|爱奇艺(官)",
+      "name": "🍒田|爱官",
       "type": 3,
       "api": "csp_Itv",
       "quickSearch": 1,
@@ -23,14 +23,14 @@
     },
     {
       "key": "YTV",
-      "name": "🍒田|优酷(官)",
+      "name": "🍒田|优官",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/youku.js"
     },
     {
       "key": "Qtv",
-      "name": "🍒田|腾讯(官)",
+      "name": "🍒田|腾官",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "Mtv",
-      "name": "🍒田|芒果(官)",
+      "name": "🍒田|芒官",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "360",
-      "name": "🍒田|360影视(官)",
+      "name": "🍒田|360官",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -60,13 +60,13 @@
     },
     {
       "key": "py_cctv",
-      "name": "🍒田|CCTV(官)",
+      "name": "🍒田|CC官",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/cctv.json"
+      "ext": "./lib/cc.json"
     },
     {
       "key": "t4_wo",
