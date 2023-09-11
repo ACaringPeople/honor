@@ -13,7 +13,7 @@
     }, 
     {
       "key": "Itv",
-      "name": "🍒田|爱奇艺(官)",
+      "name": "🍒田|爱",
       "type": 3,
       "api": "csp_Itv",
       "quickSearch": 1,
@@ -23,14 +23,14 @@
     },
     {
       "key": "YTV",
-      "name": "🍒田|优酷(官)",
+      "name": "🍒田|优",
       "type": 3,
       "api": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/youku.js"
     },
     {
       "key": "Qtv",
-      "name": "🍒田|腾讯(官)",
+      "name": "🍒田|腾",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "Mtv",
-      "name": "🍒田|芒果(官)",
+      "name": "🍒田|芒",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "🍒田|360影视(官)",
+      "name": "🍒田|360",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -60,13 +60,13 @@
     },
     {
       "key":"py_cctv",
-      "name": "🍒田|CCTV(官)",
+      "name": "🍒田|CC",
       "type": 3,
       "api":"py_cctv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jukemf.com/tvbox/oppo/json/cctv.json"
+      "ext": "https://jukemf.com/tvbox/oppo/json/cc.json"
     },
     {
       "key": "csp_Bili",
