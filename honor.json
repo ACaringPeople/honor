@@ -25,8 +25,8 @@
       "key": "YTV",
       "name": "🍒田|优",
       "type": 3,
-      "api": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/youku.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/youku.js"
     },
     {
       "key": "Qtv",
@@ -155,8 +155,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/drpy1.min.js",
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/jp.js"
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/jp.js"
     },
     {
       "key": "csp_Nmys",
@@ -235,8 +235,8 @@
       "key": "drpy_js_两个BT",
       "name": "🍒田|两个BT直连",
       "type": 3,
-      "api": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/BT.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/BT.js"
     },
     {
       "key": "酷影",
@@ -296,8 +296,8 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/lib/nangua.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/nangua.js",
       "changeable": 0
     },
     {
