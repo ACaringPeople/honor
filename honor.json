@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🍒田|豆瓣┃推荐",
+      "name": "🍒田|豆瓣推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -70,7 +70,7 @@
     },
     {
       "key": "t4_wo",
-      "name": "🍒田|玩偶哥哥┃T4",
+      "name": "🍒田|玩偶哥哥T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
@@ -80,7 +80,7 @@
     },
     {
       "key": "小纸条_cli",
-      "name": "🍒田|小纸条┃T4",
+      "name": "🍒田|小纸条T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "荐片",
-      "name": "🍒田|荐片┃T4",
+      "name": "🍒田|荐片T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "🍒田|玩偶哥哥┃4K",
+      "name": "🍒田|玩偶哥哥4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "Lib",
-      "name": "🍒田|利播┃直连",
+      "name": "🍒田|利播直连",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -121,7 +121,7 @@
     },
     {
       "key": "贱贱",
-      "name": "🍒田|贱贱┃直连",
+      "name": "🍒田|贱贱直连",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -132,7 +132,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🍒田|农民┃直连",
+      "name": "🍒田|农民直连",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -142,7 +142,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "🍒田|厂长┃直连",
+      "name": "🍒田|厂长直连",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -152,7 +152,7 @@
     },
     {
       "key": "Vofl",
-      "name": "🍒田|VOF┃直连",
+      "name": "🍒田|VOF直连",
       "type": 3,
       "api": "csp_Voflix",
       "searchable": 1,
@@ -161,7 +161,7 @@
     },
     {
       "key": "探探",
-      "name": "🍒田|影探┃直连",
+      "name": "🍒田|影探直连",
       "type": 3,
       "playerType": "1",
       "api": "csp_YTVIP",
@@ -172,7 +172,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "🍒田|工场┃直连",
+      "name": "🍒田|工场直连",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -182,14 +182,14 @@
     },
     {
       "key": "drpy_js_两个BT",
-      "name": "🍒田|两个BT┃直连",
+      "name": "🍒田|两个BT直连",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/BT.js"
     },
     {
       "key": "酷影",
-      "name": "🍒田|泰泰┃APP",
+      "name": "🍒田|泰泰APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -199,7 +199,7 @@
     },
     {
       "key": "YQKAPP",
-      "name": "🍒田|一起┃App",
+      "name": "🍒田|一起App",
       "type": 3,
       "api": "csp_YQKAPP",
       "playerType": 2,
@@ -210,7 +210,7 @@
     },
     {
       "key": "AppMr",
-      "name": "🍒田|明明┃App",
+      "name": "🍒田|明明App",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -219,7 +219,7 @@
     },
     {
       "key": "落落",
-      "name": "🍒田|落落┃APP",
+      "name": "🍒田|落落APP",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
@@ -229,7 +229,7 @@
     },
     {
       "key": "哈喽",
-      "name": "🍒田|哈喽┃App",
+      "name": "🍒田|哈喽App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -239,7 +239,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🍒田|南瓜┃APP",
+      "name": "🍒田|南瓜APP",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -249,7 +249,7 @@
     },
     {
       "key": "kuaikan",
-      "name": "🍒田|快看┃App",
+      "name": "🍒田|快看App",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -258,7 +258,7 @@
     },
     {
       "key": "陌陌",
-      "name": "🍒田|陌陌┃App",
+      "name": "🍒田|陌陌App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -268,7 +268,7 @@
     },
     {
       "key": "77",
-      "name": "🍒田|七七┃App",
+      "name": "🍒田|七七App",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -277,7 +277,7 @@
     },
     {
       "key": "MXTV",
-      "name": "🍒田|魔魔┃APP",
+      "name": "🍒田|魔魔APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -287,7 +287,7 @@
     },
     {
       "key": "率率",
-      "name": "🍒田|率率┃App",
+      "name": "🍒田|率率App",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 1,
@@ -298,7 +298,7 @@
     },
     {
       "key": "奇奇",
-      "name": "🍒田|奇奇┃App",
+      "name": "🍒田|奇奇App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -308,7 +308,7 @@
     },
     {
       "key": "555",
-      "name": "🍒田|555┃App",
+      "name": "🍒田|555App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -318,7 +318,7 @@
     },
     {
       "key": "hoho",
-      "name": "🍒田|HOHO┃App",
+      "name": "🍒田|HOHOApp",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -328,7 +328,7 @@
     },
     {
       "key": "lggys",
-      "name": "🍒田|落攻阁┃App",
+      "name": "🍒田|落攻阁App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -338,7 +338,7 @@
     },
     {
       "key": "heyik",
-      "name": "🍒田|何以┃App",
+      "name": "🍒田|何以App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -348,7 +348,7 @@
     },
     {
       "key": "shaozeyy",
-      "name": "🍒田|少泽┃App",
+      "name": "🍒田|少泽App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -358,7 +358,7 @@
     },
     {
       "key": "wxtv",
-      "name": "🍒田|无限┃App",
+      "name": "🍒田|无限App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -368,7 +368,7 @@
     },
     {
       "key": "csp_兔瓜",
-      "name": "🍒田|兔瓜┃BPQ",
+      "name": "🍒田|兔瓜BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -378,7 +378,7 @@
     },
     {
       "key": "了猪",
-      "name": "🍒田|乐猪┃BPQ",
+      "name": "🍒田|乐猪BPQ",
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
@@ -416,7 +416,7 @@
     },
     {
       "key": "莱米",
-      "name": "🍒田|莱米┃BPQ",
+      "name": "🍒田|莱米BPQ",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -442,7 +442,7 @@
     },
     {
       "key": "双黄",
-      "name": "🍒田|双黄┃BPQ",
+      "name": "🍒田|双黄BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -458,7 +458,7 @@
     },
     {
       "key": "土豪",
-      "name": "🍒田|土豪┃BPQ",
+      "name": "🍒田|土豪BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -479,7 +479,7 @@
     },
     {
       "key": "零度",
-      "name": "🍒田|零度┃BPQ",
+      "name": "🍒田|零度BPQ",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -514,7 +514,7 @@
     },
     {
       "key": "奇优",
-      "name": "🍒田|奇优┃BPQ",
+      "name": "🍒田|奇优BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -524,7 +524,7 @@
     },
     {
       "key": "石榴",
-      "name": "🍒田|石榴┃BPQ",
+      "name": "🍒田|石榴BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -532,7 +532,7 @@
     },
     {
       "key": "看看",
-      "name": "🍒田|看看┃BPQ",
+      "name": "🍒田|看看BPQ",
       "type": 3,
       "playerType": "1",
       "changeable": 1,
@@ -556,7 +556,7 @@
     },
     {
       "key": "臭蛋",
-      "name": "🍒田|臭蛋┃BPQ",
+      "name": "🍒田|臭蛋BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -572,7 +572,7 @@
     },
     {
       "key": "夜幕",
-      "name": "️🍒田|夜夜┃BPQ",
+      "name": "️🍒田|夜夜BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -606,7 +606,7 @@
     },
     {
       "key": "子子",
-      "name": "🍒田|子子┃BPQ",
+      "name": "🍒田|子子BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -638,7 +638,7 @@
     },
     {
       "key": "速搜",
-      "name": "🍒田|速搜┃BPQ",
+      "name": "🍒田|速搜BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -673,7 +673,7 @@
     },
     {
       "key": "速映影视",
-      "name": "🍒田|速映┃BPQ",
+      "name": "🍒田|速映BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -697,7 +697,7 @@
     },
     {
       "key": "csp_101",
-      "name": "🍒田|摇玲┃BPQ",
+      "name": "🍒田|摇玲BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -707,7 +707,7 @@
     },
     {
       "key": "csp_真不卡",
-      "name": "🍒田|不卡┃BPQ",
+      "name": "🍒田|不卡BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -717,7 +717,7 @@
     },
     {
       "key": "348",
-      "name": "🍒田|348┃BPQ",
+      "name": "🍒田|348BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -753,7 +753,7 @@
     },
     {
       "key": "兔兔",
-      "name": "🍒田|兔兔┃BPQ",
+      "name": "🍒田|兔兔BPQ",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -787,7 +787,7 @@
     },
     {
       "key": "csp_淘剧",
-      "name": "🍒田|淘剧┃BPQ",
+      "name": "🍒田|淘剧BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -825,7 +825,7 @@
     },
     {
       "key": "ok",
-      "name": "🍒田|Free┃BPQ",
+      "name": "🍒田|FreeBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -849,7 +849,7 @@
     },
     {
       "key": "csp_熊猫",
-      "name": "🍒田|熊猫┃BPQ",
+      "name": "🍒田|熊猫BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -863,7 +863,7 @@
     },
     {
       "key": "csp_花猫",
-      "name": "🍒田|花猫┃BPQ",
+      "name": "🍒田|花猫BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -873,7 +873,7 @@
     },
     {
       "key": "耐看",
-      "name": "🍒田|耐看┃BPQ",
+      "name": "🍒田|耐看BPQ",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -897,7 +897,7 @@
     },
     {
       "key": "csp_xBPQ_66",
-      "name": "🍒田|鎏琉┃BPQ",
+      "name": "🍒田|鎏琉BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -907,7 +907,7 @@
     },
     {
       "key": "热播库",
-      "name": "🍒田|热播┃BPQ",
+      "name": "🍒田|热播BPQ",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -937,7 +937,7 @@
     },
     {
       "key": "黑狐",
-      "name": "🍒田|黑狐┃BPQ",
+      "name": "🍒田|黑狐BPQ",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -978,7 +978,7 @@
     },
     {
       "key": "csp_酷茶",
-      "name": "🍒田|酷茶┃BPQ",
+      "name": "🍒田|酷茶BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -999,7 +999,7 @@
     },
     {
       "key": "csp_明帝",
-      "name": "🍒田|明帝┃BPQ",
+      "name": "🍒田|明帝BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1009,7 +1009,7 @@
     },
     {
       "key": "csp_视觉",
-      "name": "🍒田|视觉┃BPQ",
+      "name": "🍒田|视觉BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1019,7 +1019,7 @@
     },
     {
       "key": "csp_亿视",
-      "name": "🍒田|亿视┃BPQ",
+      "name": "🍒田|亿视BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1037,7 +1037,7 @@
     },
     {
       "key": "csp_vidhub",
-      "name": "🍒田|vid┃BPQ",
+      "name": "🍒田|vidBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -1053,7 +1053,7 @@
     },
     {
       "key": "csp_胖虎",
-      "name": "🍒田|胖虎┃BPQ",
+      "name": "🍒田|胖虎BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -1065,7 +1065,7 @@
     },
     {
       "key": "低端拼接",
-      "name": "🍒田|低端┃BPQ",
+      "name": "🍒田|低端BPQ",
       "type": 3,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -1096,7 +1096,7 @@
     },
     {
       "key": "csp_毛驴",
-      "name": "🍒田|毛驴┃BPQ",
+      "name": "🍒田|毛驴BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1117,7 +1117,7 @@
     },
     {
       "key": "YiSo",
-      "name": "🍒田|易搜┃搜索",
+      "name": "🍒田|易搜搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -1127,7 +1127,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🍒田|找资源┃搜索",
+      "name": "🍒田|找资源搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -1137,7 +1137,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🍒田|盘搜┃搜索",
+      "name": "🍒田|盘搜搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1147,7 +1147,7 @@
     },
     {
       "key": "UpYun",
-      "name": "🍒田|Up搜┃搜索",
+      "name": "🍒田|Up搜搜索",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -1157,7 +1157,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🍒田|盘Se┃搜索",
+      "name": "🍒田|盘Se搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -1167,7 +1167,7 @@
     },
     {
       "key": "七夜",
-      "name": "🍒田|七夜┃搜索",
+      "name": "🍒田|七夜搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
