@@ -111,7 +111,7 @@
     },
     {
        "key": "maolv_open",
-       "name": "影视|毛驴",
+       "name": "🍒田|影视毛驴",
        "type": 3,
        "api": "csp_Maolv",
        "searchable": 1,
@@ -1314,6 +1314,11 @@
       "name": "再找来",
       "type": 1,
       "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+    },
+    {
+            "name": "阳途",
+            "type": 0,
+            "url": "https://jx.yangtu.top/?url="
     },
     {
       "name": "🎯超级解析",
