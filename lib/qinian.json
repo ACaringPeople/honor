@@ -1,5 +1,5 @@
     {
-    
+
     "站名":"七年影视",
     
     "主页url":"https://tv.ygmgo.cn/",
@@ -11,8 +11,6 @@
     "影片类型":"类型：</span>&&</span>",
     
     "线路数组":"<h3&&/h3>[不包含:云播三]",
-    
-    "线路标题":"<img src=*>&&<",
     
     "分类url":"https://tv.ygmgo.cn/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
     
