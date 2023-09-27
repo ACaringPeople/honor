@@ -89,7 +89,7 @@
    "searchable": 1,
    "filterable": 0,
    "changeable": 0,
-   "ext":"./lib/bilibili.json",
+   "ext":"./lib/bili.json",
    "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
 },
     {
