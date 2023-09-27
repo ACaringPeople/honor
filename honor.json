@@ -91,7 +91,7 @@
    "changeable": 0,
    "ext":"./lib/bilibili.json",
    "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
-}
+},
     {
       "key": "csp_Bili",
       "name": "🍒田|哔哔合集",
