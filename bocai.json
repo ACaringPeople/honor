@@ -53,7 +53,7 @@
     },
     {
       "key": "臭蛋",
-      "name": "📽️臭蛋┃BPQ",
+      "name": "🐬臭蛋┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -75,7 +75,7 @@
     },
     {
       "key": "csp_双鱼影视",
-      "name": "📽️双鱼┃BPQ",
+      "name": "🐬双鱼┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -87,7 +87,7 @@
     },
     {
       "key": "csp_魔方",
-      "name": "📽️魔方┃BPQ",
+      "name": "🐬魔方┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -101,7 +101,7 @@
     },
     {
       "key": "csp_奈飞影视",
-      "name": "📽️奈飞┃BPQ",
+      "name": "🐬奈飞┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -115,7 +115,7 @@
     },
     {
       "key": "csp_AucFox",
-      "name": "📽️AucFox┃BPQ",
+      "name": "🐬AucFox┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -129,7 +129,7 @@
     },
     {
       "key": "csp_101",
-      "name": "📽️摇玲┃BPQ",
+      "name": "🐬摇玲┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -165,7 +165,7 @@
     },
     {
       "key": "csp_热播",
-      "name": "📽️热播┃BPQ",
+      "name": "🐬热播┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -200,7 +200,7 @@
     },
     {
       "key": "csp_电影蜜蜂",
-      "name": "📽️蜜蜂┃BPQ",
+      "name": "🐬蜜蜂┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
