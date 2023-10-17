@@ -13,7 +13,7 @@
     },
     {
         "key": "douyu",
-        "name": "JustLive斗鱼｜直播",
+        "name": "JustLive斗鱼|直播",
         "type": 3,
         "api": "./douyu_open.js",
         "ext": {
