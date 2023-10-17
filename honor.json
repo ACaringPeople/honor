@@ -13,9 +13,9 @@
     },
     {
         "key": "douyu",
-        "name": "JustLive斗鱼|直播",
+        "name": "🍒田|斗鱼直播",
         "type": 3,
-        "api": "./douyu_open.js",
+        "api": "./lib/douyu_open.js",
         "ext": {
           "categories": "热门游戏#热门手游#主机游戏#怀旧游戏#娱乐推荐#原创IP#派对"
         }
