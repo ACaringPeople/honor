@@ -13,7 +13,7 @@
     },
     {
      "key": "应用商店",
-     "name": "应用商店",
+     "name": "🍒田|应用商店",
      "jar":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
      "type": 3,
      "api": "csp_Market",
