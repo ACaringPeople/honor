@@ -15,6 +15,7 @@
 	"key": "应用商店",
 	"name": "应用商店",
 	"type": 3,
+  "jar":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 	"api": "csp_Market",
 	"searchable": 0,
 	"changeable": 0,
