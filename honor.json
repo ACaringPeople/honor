@@ -13,7 +13,7 @@
     },
     {
 	"key": "应用商店",
-	"name": "应用商店",
+	"name": "🍒田|应用商店",
 	"type": 3,
   "jar":"https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 	"api": "csp_Market",
@@ -67,6 +67,24 @@
 		}
 	]
 },
+{
+        "key": "douyu",
+        "name": "🍒田|斗鱼直播",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/douyu_open.js",
+        "ext": {
+          "categories": "热门游戏#热门手游#主机游戏#怀旧游戏#娱乐推荐#原创IP#派对"
+        }
+    },
+    {
+        "key": "huya",
+        "name": "🍒田|虎牙直播",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/huya_open.js",
+        "ext": {
+          "categories": "网游竞技#单机热游#综合手游#科技#旅游#娱乐天地#一起看#颜值#二次元#星秀#音乐#原创"
+        }
+      },
     {
       "key": "csp_WoGG",
       "name": "🍒田|玩偶4K",
