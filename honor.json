@@ -133,7 +133,7 @@
       "ext": "./lib/nmys.json"
     },
     {
-      "key": "csp_Czsapp",
+      "key": "Czsapp",
       "name": "🍒田|厂长直连",
       "type": 3,
       "api": "csp_Czsapp",
@@ -141,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://cz01.tv/"
+      "ext": "https://www.czz9.com/"
     },
     {
       "key": "探探",
