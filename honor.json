@@ -96,6 +96,17 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
+    "key":"csp_Jianying",
+    "name":"🍒田|简影SP",
+    "type":3,
+    "api":"csp_Jianying",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":0,
+    "ext":"1028126902@qq.com$$$tc102812"
+    },
+    {
       "key": "贱贱",
       "name": "🍒田|贱贱直连",
       "type": 3,
