@@ -62,33 +62,33 @@
 		"list": [
 			{
 				"name": "甲壳虫ADB",
-				"url": "https://cloud.lxweb.cn/f/8p0JU1/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B-1.3.0.apk",
-				"icon": "https://cloud.lxweb.cn/f/oMPMFY/%E7%94%B2%E5%A3%B3%E8%99%AB-icno.jpg"
+				"url": "https://cloud.lxweb.cn/f/0g7os0/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B-1.3.0.apk",
+				"icon": "https://cloud.lxweb.cn/f/9kBjI1/jiakechong.jpg"
 			},
 			{
 				"name": "小白管理器",
-				"url": "https://cloud.lxweb.cn/f/aEpgu6/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8-2.8.0.apk",
-				"icon": "https://cloud.lxweb.cn/f/Vx6VFr/%E5%B0%8F%E7%99%BD-icno.jpg"
+				"url": "https://cloud.lxweb.cn/f/weMVs2/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8-2.8.0.apk",
+				"icon": "https://cloud.lxweb.cn/f/7aVlIr/%E5%B0%8F%E7%99%BD%E7%AE%A1%E7%90%86%E5%99%A8.png"
 			},
 			{
 				"name": "当贝桌面",
-				"url": "https://cloud.lxweb.cn/f/kEjVCp/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2-3.3.6.apk",
-				"icon": "https://cloud.lxweb.cn/f/RMwYCO/%E5%BD%93%E8%B4%9D-icno.jpg"
+				"url": "https://cloud.lxweb.cn/f/B6YLC9/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2-3.3.6.apk",
+				"icon": "https://cloud.lxweb.cn/f/WQy7iB/dangbei.png"
 			},
 			{
 					"name": "电视家",
 					"url": "https://cloud.lxweb.cn/f/MogNsG/%E7%94%B5%E8%A7%86%E5%AE%B6_3.10.25%E8%A7%A3%E9%94%81VIP%E7%89%88.apk",
 					"icon": "https://cloud.lxweb.cn/f/6gwxhw/dianshijia.png"
-			},
+		  },
 			{
 				"name": "秒看电视",
-				"url": "https://cloud.lxweb.cn/f/7axWIr/%E7%A7%92%E7%9C%8B%E7%94%B5%E8%A7%86-7.6.9.apk",
-				"icon": "https://cloud.lxweb.cn/f/J0Jdsk/%E7%A7%92%E7%9C%8B-icno.jpg"
+				"url": "https://cloud.lxweb.cn/f/pYLeHe/%E7%A7%92%E7%9C%8B%E7%94%B5%E8%A7%86-7.6.9.apk",
+				"icon": "https://cloud.lxweb.cn/f/AXYaca/%E7%A7%92%E7%9C%8BTV.png"
 			},
 			{
 				"name": "百科浏览器",
-				"url": "https://cloud.lxweb.cn/f/mrjytj/%E7%99%BE%E7%A7%91%E6%B5%8F%E8%A7%88%E5%99%A8-3.5.apk",
-				"icon": "https://cloud.lxweb.cn/f/gZP1UK/%E7%99%BE%E7%A7%91-icno.jpg"
+				"url": "https://cloud.lxweb.cn/f/zJeXuz/bkllq_112244.apk",
+				"icon": "https://cloud.lxweb.cn/f/KwXNFX/%E7%99%BE%E7%A7%91%E6%B5%8F%E8%A7%88%E5%99%A8.png"
 			}
 		]
 	},
