@@ -417,7 +417,7 @@
 			"name": "🍒田|南坊影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			: "./jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
