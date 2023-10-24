@@ -225,7 +225,7 @@
 			"key": "喵喵影视",
 			"name": "🍒田|喵喵App",
 			"type": 3,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab2.jar",
+			"jar": "./jar/ab2.jar",
 			"api": "csp_Appto",
 			"playerType": 2,
 			"ext": "XRZspkas5l6NsZJWpEURh6BqKRxqCIw3QY+Bj3/9Gbahdt/I/fP2xq6LIBnrWE8xh45v/vHcmXllR1G9Po2b5t7Z8VyUowvfHsXJA/bkW7XAzegsRcxq8ZqYgUtJTGeh4UtuRrbaaKK5cL96vwgHLQ9hOn8jppN5pZgJ3ZsWQuocwI45MZOaQqi7aNyJmi0PxTt07Djk0kqVoxoHrNGjT2BH7H4K65HXLRMWhyrWswhbnSciFfwjen91iAeJaMuwqQEWSRhShJWb6WTtjXghM8JBksS0432c31evYyFEEq5yiCHTpSm35nFsLmwiI2Q0F20FTMvOA8xIKqGyazVjCVUN3gc0LDqnLWBLFdxsJHh6asndaxPCn7UitiRVuW0Ans3FzhINr5QayshrUtqJHan9h7ItRlx8XkvCh83eWkuRoGBiPC4X/mcbrawRwOM04jIRiRhJl9Dit+b5Rw35Ugvd8qzARtaLkecNFS54zX1UfVJecKBrqSyl0dx8pk2EyG1vZZ0NnnZ2JMuBvywc0gxO45mAnyMM46+igcv76u4DkqA0wFVKHtLXu5TNbOZOfLnnMChe0PdbnQva25mMHgtHYHfZbYlldh6fPdMOidoaiyg+Yd/n1xgoo16k9zclT+ioH6OBrsKG2GYlFVFxLI4bwm+v6zk237jlWXg5bj4Q="
@@ -262,7 +262,7 @@
 			"key": "艾艾",
 			"name": "🍒田|艾艾App",
 			"type": 3,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab2.jar",
+			"jar": "./jar/ab2.jar",
 			"api": "csp_Appto",
 			"playerType": 2,
 			"ext": "hcAuLY8Gg7Eb0oRkB84jw+9rQLeiFinDuZH5RMmF6KKO8irmlYhtPQnzRpQe4LPY98R+w/5FmQ0qHpjZJi2IO6Jhj3g50wP9mK/hGAw0EyahT8kphU0Uq+3kgSSMo7xszUGN9EwRotCqpXDfs2g4Cb/mdPhy8Q3I+QIck7eFAPLquyGgZS9WsK/GEwH5WbMKWMQxEhakYUrj0NV1WwSeHOVAuhsgn+Pewj71uD4AOk2UzeTmLbhwvqrRo5zcYCdCzh+e3pUpbuAtK/zaxi7r64ASfqb64bP8TPizK03pSz4b5ksSfBXaFY9HgVOl1ybO7EZS5fttTHxgPNslV+JC3Xhci41Dw8TnXR4ou92WZsj+X9bJAJlDOmLERN0e8hael2DuBA1AR1HaYpSbxPioonGsbr3SheAKfra/RvtjVXciKokPaWRxCNPSlZF8+wKsr9UG4IC35I07Xf5VHfdr9fOH1cCxi+JIS6tZDWg3B858ae1tm24USJsLnHhx2gG/j0X+h0Z4uCCA/uFPqJNZZJ56EqiyG3ZHfdDr0hwKbPTXi1IYSzLz/sYovi1dubRG+ht7C4yaYaZgjllWpkM2i8sG9vvpzF0YXuPrCDEg0B2x+KFpgnMZ2sfY864BRWI5z7JMt4rZhiE2la+PJ3Bw5e+C5/o8UJ4iR0CsirL03EFU="
@@ -281,7 +281,7 @@
 			"key": "追忆影视",
 			"name": "🍒田|追忆影视",
 			"type": 3,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab2.jar",
+			"jar": "./jar/ab2.jar",
 			"api": "csp_Appto",
 			"playerType": 2,
 			"ext": "SgfqwZ7mXT9kHnNF5fEfBFRfJVGiy4+WwnapqG/NY3BxdbcjxuSmnXN/KMdKfEmAbW86nRfRRsx8wG3JuaVRwKtFGrTNs9GKFMjzDysgVx+vXROKpT7GgFNl6mjK8KYx2Cd9N8wv9vOboEhX87E2+ckvZL2uDPkYk9cW+IePzeeW7N1VrtZGAJ5s8cnPumrviNowWKczX9/9g3IUgNAchFGWS8MIHy2LHJ/Jj1upM3boVaFchNX3fkkXpdfPjIHoRSgjQ3AkFnS7tcqEno/ZHQexTvGGwDN760tqsJnQiOJgr6wl3DaOAZpfS75U+i5cpvHkX9cYjCMp7Q33fl5FhFiMZruipNxP3ujfF1Y2sKhANvz+fycqBzvJr5ogkLc1sPDw+St4uFsGkDnmAraX0zPzwwggknimRXeudT7TZz1fk8Pfuh1acXEju5g8H6XPzbsi8KcJskusAiIoPiu86apOh6wNcWuD13IDIfs0RXSn+AkD6ELJFa+hPa1UZ8BddfI0Cd+LV15gKaZg0eiKs9n4t8rasm6x4KpP/XBwYR/kzMIS6aYri42R37koBsuHChJkOdsaRjS0+xUNTuIN8aM9QOWBK4fmoU1f4qYW3Nf/sdICVIh0FflXgHO0NgfE9tenAPWDCtxZia8eo3C4JcR43a7wRgJf3HyA6zcIh7eOs74eDoak9b1wU82+EHNhec3XrkfzSoSpqUzqz2NMtPYe8RU+lRXAiS6xGU8Uq7fYBzLiw/LfCnfoMXPbsQuwGCCy5348lrN3MqK1v/WMxHY2/7iGEDgHZAs/YJ+0Visz0mULi4bau8BJ9z/VYTZ9O67XWYSpZTvMA55rIDee9OwMGqqgRFVYE4xiiSj8JYVHT0WwxSYkcZes5qBL3h6hcCWUZoUXoY3rvNkdweATQ/nvnD5+Z6hvX6eNP4yUJWvB4CwqCI5htdXwTFQH6sdJWOLVK+oQiicDS8Non9FbFfgI6dGG+W5p5reMIfFExV+MdpOs5QWqVaw8tMPEMqKnG"
@@ -371,7 +371,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -392,7 +392,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
@@ -417,7 +417,7 @@
 			"name": "🍒田|南坊影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			: "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			: "./jar/ab13.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -453,7 +453,7 @@
 			"name": "🍒田|美剧影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab12.jar",
+			"jar": "./jar/ab12.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -497,7 +497,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playStartTime": 15,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"ext": {
 				"二次截取": "module-items&&<footer id=+module-item-cover",
 				"数组": "module-item-pic&&module-item-cover",
@@ -514,7 +514,7 @@
 			"key": "牛牛",
 			"name": "🍒田|牛牛影视",
 			"type": 3,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0",
@@ -529,7 +529,7 @@
 			"name": "🍒田|云播影视",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -560,7 +560,7 @@
 			"name": "🍒田|速映影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"ext": {
 				"站名": "速映影视",
 				"主页url": "http://www.suying.life/",
@@ -586,7 +586,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"ext": {
 				"数组": "class=\"top&&</li",
 				"请求头": "AppleCoreMedia/1.0.0.17D50 (iPhone; U; CPU OS 13_3_2 like Mac OS X; zh_cn)",
@@ -622,7 +622,7 @@
 			"name": "🍒田|子子影视",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -658,7 +658,7 @@
 			"playerType": 2,
 			"api": "csp_XBPQ",
 			"changeable": 1,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"ext": {
 				"站名": "乐猪影视",
 				"主页url": "http://www.lezhutv.com/",
@@ -695,7 +695,7 @@
 			"name": "🍒田|淘剧影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"ext": {
 				"主页url": "http://dyxz.tv",
 				"数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -734,7 +734,7 @@
 			"name": "🍒田|348影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"ext": {
 				"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
 				"站名": "348电影网",
@@ -773,7 +773,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -814,7 +814,7 @@
 			"name": "🍒田|蘑菇影视",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
@@ -836,7 +836,7 @@
 			"name": "🍒田|龟龟影视",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
@@ -857,7 +857,7 @@
 			"key": "双黄",
 			"name": "🍒田|双黄影视",
 			"type": 3,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -875,7 +875,7 @@
 			"name": "🍒田|热播影视",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -915,7 +915,7 @@
 			"key": "csp_XBPQ_aoaotv",
 			"name": "🍒田|嗷嗷短剧",
 			"type": 3,
-			"jar": "http://tv.jukemf.com/tvbox/oppo/jar/ab13.jar",
+			"jar": "./jar/ab13.jar",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
