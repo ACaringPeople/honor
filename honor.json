@@ -1175,17 +1175,17 @@
     },
     {
       "key": "py_cctv",
-      "name": "🍒田|CCTV(官)",
+      "name": "🍒田|CC",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/cctv.json"
+      "ext": "./lib/cc.json"
     },
     {
       "key": "push_agent",
-      "name": "🛴手机推送",
+      "name": "🍒田|手机推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "csp_Bili",
-      "name": "🅱哔哔合集",
+      "name": "🍒田|哔哔合集",
       "type": 3,
       "jar":"./jar/OpenSpider.jar",
       "api": "csp_Bili",
@@ -1209,7 +1209,7 @@
     },
     {
       "key": "csp_Biliych",
-      "name": "🅱哔哔演唱会",
+      "name": "🍒田|哔哔演唱会",
       "type": 3,
       "jar":"./jar/OpenSpider.jar",
       "api": "csp_Bili",
