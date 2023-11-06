@@ -1422,7 +1422,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "playUrl": "json:https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url=",
+      "playUrl": "json:https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="
     },
     {
       "key": "py_cctv",
@@ -1858,5 +1858,4 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
-}
 }
