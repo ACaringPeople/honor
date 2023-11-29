@@ -58,11 +58,11 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
 		{
       "key": "玩偶哥哥1",
-      "name": "🍒田|多线程",
+      "name": "🍒田|玩偶多线程",
       "type": 3,
       "jar":"./jar/pg.nogo.jar",
       "api": "csp_Wogg",
