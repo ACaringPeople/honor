@@ -3,7 +3,7 @@
 "open_token":"",
 "thread_limit":10,
 "quark_thread_limit":10,
-"vod_flags":"4kz|4k|qhd",
+"vod_flags":"4k|4kz|qhd",
 "quark_flags":"4kz|auto",
 "aliproxy":"",
 "proxy":"",
