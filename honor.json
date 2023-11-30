@@ -64,7 +64,7 @@
       "key": "玩偶哥哥1",
       "name": "🍒田|玩偶PG版",
       "type": 3,
-      "jar":"./jar/pg.nogo.jar",
+      "jar":"./jar/pg.jar",
       "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
