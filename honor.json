@@ -62,7 +62,7 @@
 		},
 		{
       "key": "玩偶哥哥1",
-      "name": "🍒田|玩偶多线程",
+      "name": "🍒田|玩偶PG版",
       "type": 3,
       "jar":"./jar/pg.nogo.jar",
       "api": "csp_Wogg",
@@ -71,6 +71,21 @@
       "changeable": 1,
       "ext": "./lib/PG推送.json$$$https://wogg.xyz/$$$null$$$1",
       "timeout": 30
+    },
+	{
+      "key": "玩偶哥哥2",
+      "name": "🍒田|玩偶OK版",
+      "type": 3,
+	  "jar":"./jar/ok.png",
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
+        "filter": "./json/wogg.json",
+        "danmu": true
+      }
     },
 		{
 			"key": "Czsapp",
