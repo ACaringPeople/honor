@@ -76,7 +76,7 @@
       "key": "玩偶哥哥2",
       "name": "🍒田|玩偶OK版",
       "type": 3,
-	  "jar":"./jar/ok.png",
+	  "jar":"./jar/ok.jar",
       "api": "csp_Wogg",
       "searchable": 1,
       "filterable": 1,
