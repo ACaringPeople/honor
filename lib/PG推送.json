@@ -1,5 +1,6 @@
 {
 "token":"http://127.0.0.1:9978/file/tvfan/token.txt",
+"open_token":"",
 "thread_limit":32,
 "quark_thread_limit":10,
 "vod_flags":"4k|4kz|auto",
