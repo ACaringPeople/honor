@@ -64,6 +64,7 @@
 			"key": "pg配置中心",
 			"name": "🍒田|pg配置中心",
 			"type": 3,
+			"jar":"./jar/pg.jar",
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
