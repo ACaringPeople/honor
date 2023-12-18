@@ -151,6 +151,32 @@
 			"timeout": 30
 		},
 		{
+			"key": "云盘资源",
+			"name": "🍒田|云盘网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_YunPanOne",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./lib/PG推送.json",
+			"timeout": 60
+		},
+		{
+			"key": "小云",
+			"name": "🍒田|小云网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_YunSo",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./lib/PG推送.json",
+			"timeout": 60
+		},
+		{
 			"key": "校长影视",
 			"name": "🍒田|校长网盘",
 			"type": 3,
