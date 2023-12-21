@@ -72,7 +72,7 @@
 				"type": "rect",
 				"ratio": 1
 			},
-			"ext": "./lib/PG推送.json"
+			"ext": "./lib/PG.json"
 		},
 		{
 			"key": "玩偶哥哥1",
@@ -83,7 +83,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "./lib/PG推送.json$$$https://wogg.xyz/$$$null$$$1",
+			"ext": "./lib/PG.json$$$https://wogg.xyz/$$$null$$$1",
 			"timeout": 30
 		},
 		{
@@ -115,115 +115,135 @@
 			}
 		},
 		{
-			"key": "玩偶表哥",
-			"name": "🍒田|表哥网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_Wobg",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "./lib/PG推送.json$$$https://wobge.run.goorm.io$$$1",
-			"timeout": 30
-		},
-		{
-			"key": "夸克盘搜",
-			"name": "🍒田|夸克网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_QuarkPanSo",
-			"changeable": 0,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./lib/PG推送.json",
-			"timeout": 60
-		},
-		{
-			"key": "团长影视",
-			"name": "🍒田|团长网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_TZFile",
-			"ext": "./lib/PG推送.json$$$null$$$1",
-			"quickSearch": 1,
-			"changeable": 0,
-			"timeout": 30
-		},
-		{
-			"key": "云盘资源",
-			"name": "🍒田|云盘网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_YunPanOne",
-			"changeable": 0,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./lib/PG推送.json",
-			"timeout": 60
-		},
-		{
-			"key": "小云",
-			"name": "🍒田|小云网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_YunSo",
-			"changeable": 0,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./lib/PG推送.json",
-			"timeout": 60
-		},
-		{
-			"key": "校长影视",
-			"name": "🍒田|校长网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_XiaoZhang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": "./lib/PG推送.json$$$null$$$1",
-			"timeout": 30
-		},
-		{
-			"key": "影巢网盘",
+			"key": "Hdhive",
 			"name": "🍒田|影巢网盘",
 			"type": 3,
 			"jar": "./jar/pg.jar",
 			"api": "csp_Hdhive",
-			"searchable": 1,
 			"quickSearch": 1,
+			"changeable": 1,
 			"filterable": 1,
-			"changeable": 0,
-			"ext": "./lib/PG推送.json$$$null$$$1",
-			"timeout": 30
+			"timeout": 30,
+			"ext": "./lib/PG.json$$$null$$$1"
 		},
 		{
-			"key": "趣盘搜",
-			"name": "🍒田|趣盘网盘",
-			"type": 3,
-			"jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
-			"api": "csp_Funletu",
-			"changeable": 0,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"timeout": 60
-		},
-		{
-			"key": "爱盘搜",
-			"name": "🍒田|爱盘网盘",
+			"key": "Ppxzy",
+			"name": "🍒田|皮皮虾网盘",
 			"type": 3,
 			"jar": "./jar/pg.jar",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/aipanso.js",
+			"api": "csp_Ppxzy",
 			"quickSearch": 1,
-			"changeable": 0,
-			"timeout": 30
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json$$$https://ppxzy.net/$$$null$$$1"
+		},
+		{
+			"key": "校长影视",
+			"name": "🍒田|校长影视网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_XiaoZhang",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json$$$null$$$1"
+		},
+		{
+			"key": "团长资源",
+			"name": "🍒田|团长资源网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_TZFile",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json$$$null$$$1"
+		},
+		{
+			"key": "Wobg",
+			"name": "🍒田|玩偶表哥网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json$$$https://wobge.run.goorm.io$$$1"
+		},
+		{
+			"key": "YunSo",
+			"name": "🍒田|小云搜索网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_YunSo",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json"
+		},
+		{
+			"key": "YunPanOne",
+			"name": "🍒田|云盘资源网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_YunPanOne",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json"
+		},
+		{
+			"key": "Panta",
+			"name": "🍒田|盘Ta网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Panta",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json$$$https://www.91panta.cn/$$$null$$$1"
+		},
+		{
+			"key": "Funletu",
+			"name": "🍒田|趣盘搜夸克",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Funletu",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json"
+		},
+		{
+			"key": "QuarkPanso",
+			"name": "🍒田|夸克盘搜夸克",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_QuarkPanso",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json"
+		},
+		{
+			"key": "新6V",
+			"name": "🍒田|新6V网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Xb6v",
+			"searchable": 1,
+			"changeable": 1,
+			"timeout": 60,
+			"ext": "./lib/PG.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
 			"key": "Czsapp",
@@ -2065,7 +2085,7 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "liveexo",
+			"name": "exolive",
 			"type": 0,
 			"url": "https://raw.githubusercontentS.com/ACaringPeople/tvinterface/main/txt/zb.txt",
 			"playerType": 2,
