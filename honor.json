@@ -83,8 +83,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "./lib/PG.json$$$https://wogg.xyz/$$$null$$$1",
-			"timeout": 30
+			"ext": "./lib/PG.json$$$https://api.wogg.xyz/$$$null$$$1$$$./json/wogg.json",
+			"timeout": 60
 		},
 		{
 			"key": "ok配置中心",
@@ -163,16 +163,41 @@
 			"ext": "./lib/PG.json$$$null$$$1"
 		},
 		{
-			"key": "Wobg",
-			"name": "🍒田|玩偶表哥网盘",
+			"key": "玩偶表哥",
+			"name": "🍒田|表哥网盘",
 			"type": 3,
 			"jar": "./jar/pg.jar",
 			"api": "csp_Wobg",
+			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
+			"changeable": 0,
+			"ext": "./lib/PG.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json",
+			"timeout": 60
+		},
+		{
+			"key": "影视车",
+			"name": "🍒田|影视车网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Wogg",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "./lib/PG.json$$$https://www.weixine.net$$$1$$$./json/wogg.json",
+			"timeout": 60
+		},
+		{
+			"key": "4KHDR网盘",
+			"name": "🍒田|4KHDR网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_FourKHDR",
+			"searchable": 1,
+			"quickSearch": 1,
 			"filterable": 1,
-			"timeout": 30,
-			"ext": "./lib/PG.json$$$https://wobge.run.goorm.io$$$1"
+			"changeable": 0,
+			"ext": "./lib/PG.json$$$./lib/4khdr.txt$$$1",
+			"timeout": 60
 		},
 		{
 			"key": "YunSo",
@@ -187,52 +212,103 @@
 			"ext": "./lib/PG.json"
 		},
 		{
-			"key": "YunPanOne",
-			"name": "🍒田|云盘资源网盘",
+			"key": "云盘资源",
+			"name": "🍒田|云盘网盘",
 			"type": 3,
 			"jar": "./jar/pg.jar",
 			"api": "csp_YunPanOne",
+			"changeable": 0,
+			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 30,
-			"ext": "./lib/PG.json"
+			"filterable": 0,
+			"ext": "./lib/PG.json",
+			"timeout": 60
 		},
 		{
 			"key": "Panta",
-			"name": "🍒田|盘Ta网盘",
+			"name": "🍒田|盘他网盘",
 			"type": 3,
 			"jar": "./jar/pg.jar",
 			"api": "csp_Panta",
+			"changeable": 0,
+			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 30,
-			"ext": "./lib/PG.json$$$https://www.91panta.cn/$$$null$$$1"
+			"filterable": 0,
+			"ext": "./lib/PG.json$$$https://www.91panta.cn/$$$null$$$1",
+			"timeout": 60
 		},
 		{
-			"key": "Funletu",
-			"name": "🍒田|趣盘搜夸克",
+			"key": "DaPanSo",
+			"name": "🍒田|大盘网盘",
 			"type": 3,
 			"jar": "./jar/pg.jar",
-			"api": "csp_Funletu",
+			"api": "csp_DaPanSo",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "./lib/PG.json"
+			"ext": "./lib/PG.json$$$https://dapanso.com$$$null"
 		},
 		{
-			"key": "QuarkPanso",
-			"name": "🍒田|夸克盘搜夸克",
+			"key": "Qianfan",
+			"name": "🍒田|千帆网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Qianfan",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "./lib/PG.json$$$https://pan.qianfan.app$$$null$$$QianFanID=0acqqcorrmjkzlr3xqi8xnzi9rzyqqku; csrftoken=jWfG2qzm6LB816pzLzbhGBxUwH8i8kqU0GDeNkjmq8wF6uHwxdfgdvrQwmkcDW1m; _ga_6Z94VT54DV=GS1.1.1703163654.1.1.1703164183.0.0.0"
+		},
+		{
+			"key": "趣盘搜",
+			"name": "🍒田|趣盘网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/funletu.js",
+			"quickSearch": 1,
+			"changeable": 0,
+			"timeout": 60
+		},
+		{
+			"key": "夸克盘搜",
+			"name": "🍒田|夸克网盘",
 			"type": 3,
 			"jar": "./jar/pg.jar",
 			"api": "csp_QuarkPanso",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./lib/PG.json",
+			"timeout": 60
+		},
+		{
+			"key": "找资源",
+			"name": "🍒田|资源网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Zhaozy",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./lib/PG.json$$$ajin0595$$$dear0595",
+			"timeout": 60
+		},
+		{
+			"key": "Libvio",
+			"name": "🍒田|利播网盘",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_Libvio",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "./lib/PG.json"
+			"ext": "./lib/PG.json$$$https://www.libvio.pro/$$$null"
 		},
 		{
 			"key": "新6V",
@@ -1644,7 +1720,7 @@
 			"key": "csp_Bili",
 			"name": "🍒田|哔哔合集",
 			"type": 3,
-			"jar": "./jar/OpenSpider.jar",
+			"jar": "./jar/pg.jar",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 0,
@@ -1655,7 +1731,7 @@
 			"key": "csp_Biliych",
 			"name": "🍒田|哔哔演唱会",
 			"type": 3,
-			"jar": "./jar/OpenSpider.jar",
+			"jar": "./jar/pg.jar",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 0,
