@@ -1722,10 +1722,13 @@
 			"key": "push_agent",
 			"name": "🍒田|手机推送",
 			"type": 3,
+			"jar": "./jar/pg.jar",
 			"api": "csp_Push",
 			"searchable": 0,
 			"quickSearch": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+			"changeable": 2,
+			"ext": "./lib/PG.json",
+			"timeout": 60
 		},
 		{
 			"key": "哔哩哔哩",
