@@ -356,6 +356,14 @@
 			"ext": "./lib/PG.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
+			"key": "csp_Czzy1",
+			"name": "🍒田|厂长搜索",
+			"type": 3,
+			"jar": "https://gitee.com/ajin0913/xiaohei/raw/master/jar/qqq.jar",
+			"api": "csp_Czzy",
+			"searchable": 1
+		},
+		{
 			"key": "csp_Czzy",
 			"name": "🍒田|阿q厂长",
 			"type": 3,
