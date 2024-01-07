@@ -115,18 +115,7 @@
 				"danmu": true
 			}
 		},
-		{
-			"key": "影视车",
-			"name": "🍒田|影视车网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_Wogg",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "./lib/PG.json$$$https://www.weixine.net$$$1$$$./json/wogg.json",
-			"timeout": 60
-		},
+		{"key":"影视车","name":"🍒田|影视车","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":2,"ext":"./lib/PG.json$$$https://www.weixine.net$$$null$$$1$$$./json/wogg.json","timeout":60},
 		{
 			"key": "团长资源",
 			"name": "🍒田|团长资源网盘",
@@ -669,15 +658,19 @@
 			"type": 3,
 			"jar": "https://qlql.link/jar/Qile1222.jar",
 			"api": "csp_Saohuo",
-			"searchable": 1
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
 		},
 		{
 			"key": "csp_freeok",
-			"name": "🐾FreeOK",
+			"name": "🍒田|FreeOK",
 			"type": 3,
 			"jar": "https://qlql.link/jar/Qile1222.jar",
 			"api": "csp_Freeok",
-			"searchable": 1
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
 		},
 		{
 			"key": "云播",
