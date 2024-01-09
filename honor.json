@@ -119,6 +119,7 @@
 			"key": "影视车",
 			"name": "🍒田|影视车",
 			"type": 3,
+			"jar": "./jar/pg.jar",
 			"api": "csp_Wogg",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -206,18 +207,6 @@
 			"api": "csp_Cs1369",
 			"searchable": 1,
 			"changeable": 2
-		},
-		{
-			"key": "Pan99",
-			"name": "🍒田|盘九九网盘",
-			"type": 3,
-			"jar": "./jar/pg.jar",
-			"api": "csp_Pan99",
-			"quickSearch": 1,
-			"changeable": 2,
-			"filterable": 1,
-			"timeout": 30,
-			"ext": "./lib/PG.json$$$https://pan99.xyz$$$null$$$1"
 		},
 		{
 			"key": "4KHDR网盘",
