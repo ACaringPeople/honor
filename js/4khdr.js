@@ -1,22 +1,22 @@
 var rule = {
-	title:'校长影视[云盘]',
-	host:'https://xzys.fun',
-        homeUrl: '/',
-	url: '/fyclass.html?page=fypage',
+	title:'4KHDR[磁]',
+	host:'https://www.4khdr.cn',
+        homeUrl: "/forum.php?mod=forumdisplay&fid=2&page=1",
+	url: '/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=fyclass&page=fypage',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/search.html?keyword=**',
+	searchUrl: '/search.php#searchsubmit=yes&srchtxt=**;post',
 	searchable:2,
-	quickSearch:0,
+	quickSearch:1,
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':''
+         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
 	},
 	timeout:5000,
-	class_name: '电视剧&电影&动漫&纪录片&综艺',
-	class_url: 'dsj&dy&dm&jlp&zy',
+	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
+	class_url:"3&8&15&6&11&4&29&31&33&32&34",
 	play_parse:true,
 	play_json:[{
 		re:'*',
@@ -27,17 +27,17 @@ var rule = {
 	}],
 	lazy:'',
 	limit:6,
-	推荐:'div.container div.row a:has(>img);img&&alt;img&&src;img&&alt;a&&href',
-	一级:'div.container div.row div.list-boxes;img&&alt;img&&src;div.list-actions&&Text;a&&href',
+	推荐:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
+	一级:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
 	二级:{
-		title:"div.container div.row h1&&Text",
-		img:"div.container div.row img&&src",
-		desc:'div.container div.row div.article-infobox&&Text', //remark
-		content:'div.container div.row div#info&&Text',
+		title:"#thead_subject&&Text",
+		img:"img.zoom&&src",
+		desc:'td[id^="postmessage_"] font&&Text',
+		content:'td[id^="postmessage_"] font&&Text',
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-let d = pdfa(html, 'div.container div.row a');
+let d = pdfa(html, 'div.pcb table.t_table a');
 let tabsa = [];
 let tabsq = [];
 let tabsm = false;
@@ -74,13 +74,13 @@ tabsq.forEach(function(it){
 	TABS.push(it + tmpIndex);
 	tmpIndex = tmpIndex + 1;
 });
-log('xzys TABS >>>>>>>>>>>>>>>>>>' + TABS);
+log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-let d = pdfa(html, 'div.container div.row a');
+let d = pdfa(html, 'div.pcb table.t_table a');
 let lista = [];
 let listq = [];
 let listm = [];
@@ -88,8 +88,8 @@ let liste = [];
 d.forEach(function(it){
 	let burl = pdfh(it, 'a&&href');
 	let title = pdfh(it, 'a&&Text');
-	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	log('4khdr title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('4khdr burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
 	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 		if (true){
@@ -99,7 +99,7 @@ d.forEach(function(it){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
 		}
 		}else{
-			burl = "push://" + burl;
+			burl = 'push://' + burl;
 		}
 		loopresult = title + '$' + burl;
 		lista.push(loopresult);
@@ -111,8 +111,8 @@ d.forEach(function(it){
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
 		}
 		}else{
-                        burl = "push://" + burl;
-                }
+			burl = 'push://' + burl;
+		}
 		loopresult = title + '$' + burl;
 		listq.push(loopresult);
 	}else if (burl.startsWith("magnet")){
@@ -146,24 +146,33 @@ if (rule_fetch_params.headers.Cookie.startsWith("http")){
 	let cookie = rule_fetch_params.headers.Cookie;
 	setItem(RULE_CK, cookie);
 };
-log('xzys seach cookie>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+log('4khdr search cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+let new_host= HOST + '/search.php';
+let new_html=request(new_host);
+let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
+log("4khdr formhash>>>>>>>>>>>>>>>" + formhash);
+let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + encodeURIComponent(KEY);
 let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-log("xzys search params>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = request( HOST + '/search.html?keyword=' + encodeURIComponent(KEY), _fetch_params)
-//log("xzys search result>>>>>>>>>>>>>>>" + search_html);
+let postData = {
+    body: params
+};
+Object.assign(_fetch_params, postData);
+log("4khdr search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
+let search_html = post( HOST + '/search.php?mod=forum', _fetch_params)
+//log("4khdr search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
-let dlist = pdfa(search_html, 'div.container div.row div.list-boxes');
+let dlist = pdfa(search_html, 'div#threadlist ul li');
 dlist.forEach(function(it){
-	let title = pdfh(it, 'h2 a img&&alt');
+	let title = pdfh(it, 'h3&&Text');
 	if (searchObj.quick === true){
 		if (title.includes(KEY)){
 			title = KEY;
 		}
 	}
-	let img = pd(it, 'h2 a img&&src', HOST);
-	let content = pdfh(it, 'p.text_p&&Text');
-	let desc = pdfh(it, 'div.list-actions&&Text'); //remark
-	let url = pd(it, 'h2 a&&href', HOST);
+	let img = "";
+	let content = pdfh(it, 'p:eq(2)&&Text');
+	let desc = pdfh(it, 'p:eq(3)&&Text');
+	let url = pd(it, 'a&&href', HOST);
 	d.push({
 		title:title,
 		img:img,
@@ -173,5 +182,5 @@ dlist.forEach(function(it){
 		})
 });
 setResult(d);
-`,
+	`,
 }
