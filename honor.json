@@ -149,6 +149,17 @@
 			"ext": "./lib/TK.json$$$./lib/alishare.txt"
 		},
 		{
+			"key": "阿里云集合",
+			"name": "🍒田|阿里云集合",
+			"type": 3,
+			"api": "csp_阿里云集合",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+			"jar": "./jar/alijihe.jar"
+		},
+		{
 			"key": "ThunderShare",
 			"name": "🍒田|迅雷云盘分享",
 			"type": 3,
