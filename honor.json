@@ -120,7 +120,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "./lib/TK.json$$$null$$$1./json/wanwogg.json",
+			"ext": "./lib/TK.json$$$null$$$1$$$./json/wanwogg.json",
 			"timeout": 60
 		},
 		{
@@ -146,7 +146,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/TK.json$$$./lib/alishare.txt"
+			"ext": "./lib/TK.json$$$null$$$1$$$./lib/alishare.txt"
 		},
 		{
 			"key": "阿里云集合",
@@ -170,7 +170,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/TK.json$$$./lib/thundershare.txt"
+			"ext": "./lib/TK.json$$$null$$$1$$$./lib/thundershare.txt"
 		},
 		{
 			"key": "QuarkShare",
@@ -183,7 +183,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/TK.json$$$./lib/quarkshare.txt"
+			"ext": "./lib/TK.json$$$null$$$1$$$./lib/quarkshare.txt"
 		},
 		{
 			"key": "Wobg",
@@ -453,6 +453,15 @@
 			"api": "csp_UpYun",
 			"timeout": 30,
 			"ext": "./lib/TK.json"
+		},
+		{
+			"key": "csp_Czzy",
+			"name": "🍒田|厂长搜索",
+			"type": 3,
+			"api": "csp_Czzy",
+			"searchable": 1,
+			"changeable": 0,
+			"jar": "./jar/qqq.jar"
 		},
 		{
 			"key": "Czsapp",
