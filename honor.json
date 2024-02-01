@@ -75,7 +75,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 		},
 		{
 			"key": "网盘配置",
@@ -146,7 +146,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/TK.json$$$null$$$1$$$./lib/alishare.txt"
+			"ext": "./lib/TK.json$$$./lib/alishare.txt"
 		},
 		{
 			"key": "阿里云集合",
@@ -170,7 +170,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/TK.json$$$null$$$1$$$./lib/thundershare.txt"
+			"ext": "./lib/TK.json$$$./lib/thundershare.txt"
 		},
 		{
 			"key": "QuarkShare",
@@ -183,7 +183,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/TK.json$$$null$$$1$$$./lib/quarkshare.txt"
+			"ext": "./lib/TK.json$$$./lib/quarkshare.txt"
 		},
 		{
 			"key": "Wobg",
