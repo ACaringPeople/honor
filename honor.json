@@ -58,14 +58,16 @@
 			}
 		},
 		{
-			"key": "哔哩影视",
+			"key": "py_bilibilimd",
 			"name": "🍒田|哔哩影视",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://api-lmteam.koyeb.app/files/py/py_bilibilimd.py",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 2,
-			"ext": "./js/哔哩影视.js"
+			"filterable": 1,
+			"ext": {
+				"json": "./json/bili.json"
+			}
 		},
 		{
 			"key": "玩偶哥哥",
