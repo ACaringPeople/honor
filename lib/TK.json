@@ -16,6 +16,10 @@
 "proxy":"",
 "aliproxy_url":"https://raw.githubusercontent.com/ACaringPeople/honor/master/aliproxy.gz",
 "open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",
+"oauth_client_id":"",
+"oauth_client_secret":"",
+"oauth_auth_url":"",
+"oauth_refresh_url":"",
 "danmu":true,
 "quark_danmu":true,
 "quark_cookie":"_UP_A4A_11_=wb8ff12c37104380852bbc1c355fb723; __ptu_fix=fixed; _UP_335_2B_=1; _UP_30C_6A_=st9616201beq5fxcx6r149yqpi5y48ho; _UP_TS_=sg13440e3d4110a4b18827e73dc7584ca84; _UP_E37_B7_=sg13440e3d4110a4b18827e73dc7584ca84; _UP_TG_=st9616201beq5fxcx6r149yqpi5y48ho; __pus=ad5ada2723f869eac512e271917050ecAAQ5/Xuv/r0aU6xHG3Vn6rtqOYGdXebdt56cThtBlmmjSA2F8UMcyniOdJYDyqKiPtqolKM9EF04l8ucdscSVkCK; __kp=cb02bc50-b82c-11ee-816a-753a5b1875e4; __kps=AASeE1y8eKjgQ1iGjYPwmj4C; __ktd=B9NTvGQ1abyQWW9QJY+teQ==; __uid=AASeE1y8eKjgQ1iGjYPwmj4C; __puus=0cabe4f943ff3cebfc58b047b847caeeAATikYGbK3OTwdTascoEoPJnmAum3hKSXJPZjgvC1pdiLNECo9FSCO4sYPJwsRqtm+Funa8o16oEgTLYQ/vexyv0iZBXh6q6gU5F7QIH1TUBHSTvqHpGR/IgSd3cM0BX/p46gq/zCqKnhXuH+Dpo0y3GWHGaxUcKAyzTB4ybRjTxzL1GhlHZky/ZBdu4UzUQTOi49CIb2tdm+KwI2zJS+LXS"，
