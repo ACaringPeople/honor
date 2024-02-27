@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt",
 	"wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
 	"sites": [
 		{
@@ -54,7 +54,7 @@
 			"changeable": 0,
 			"ext": {
 				"type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; header_theme_version=CLOSE; PVID=1; b_ut=7; FEED_LIVE_VERSION=V8; CURRENT_BLACKGAP=0; buvid4=3A49A725-00D0-2AF2-7037-F442C85F130937725-022100900-zOXW6fOdu77ioX%2BIVm0nwA%3D%3D; CURRENT_FNVAL=4048; CURRENT_PID=84a2a660-ed72-11ed-b29f-d7eaa4f43fe4; DedeUserID=186957646; DedeUserID__ckMd5=4f717c8832ee1e62; buvid3=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc; b_nut=1696324033; _uuid=66C37D101-DB12-BDC3-810F1-8D436BE38D2728848infoc; enable_web_push=DISABLE; hit-dyn-v2=1; fingerprint=1c0962ce584a4c104a234c96b7446190; rpdid=|(ku|kk~JRRk0J'u~|R)k||YJ; b_lsid=82181962_18D61248EAD; buvid_fp=1c0962ce584a4c104a234c96b7446190; SESSDATA=646ff31f%2C1722283816%2C5c451%2A21CjCYvrSP-2VYj9g5LEDXMOSz6JaHW52lSdhH_U8rrvtxhb2imoKuNs_mKsrFT5Xd3tISVmdhMzl2ckU2MTlrQy02eHVjU0RXRURCTFVKOTR4emNyY1k1ekJ1QXlWOFFpdGZtbUJEWjVvR1BMdFMxb3FMMnVqZ0hYQmJBLUx6YjhsTS0xUWtaWlpBIIEC; bili_jct=f107482c16a0fc989250e1648764530a; sid=7az6jho3; home_feed_column=4; browser_resolution=819-1292"
+				"cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; header_theme_version=CLOSE; PVID=1; b_ut=7; FEED_LIVE_VERSION=V8; CURRENT_BLACKGAP=0; buvid4=3A49A725-00D0-2AF2-7037-F442C85F130937725-022100900-zOXW6fOdu77ioX%2BIVm0nwA%3D%3D; CURRENT_FNVAL=4048; CURRENT_PID=84a2a660-ed72-11ed-b29f-d7eaa4f43fe4; DedeUserID=186957646; DedeUserID__ckMd5=4f717c8832ee1e62; buvid3=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc; b_nut=1696324033; _uuid=66C37D101-DB12-BDC3-810F1-8D436BE38D2728848infoc; enable_web_push=DISABLE; hit-dyn-v2=1; fingerprint=1c0962ce584a4c104a234c96b7446190; rpdid=|(ku|kk~JRRk0J'u~|R)k||YJ; b_lsid=9994E286_18DE8F217A2; SESSDATA=a78a3bce%2C1724562227%2C778c9%2A21CjCKuxutBHdZD1netiqC6jHfxGD3Y42GnH-sUv9vFL1xubgIC4GxrNyAu4-4vPkq9mESVmtyY09ncy1ObXJlUy0yYnJCZmpjM1ljTTBXWEN6NU42VE0yWWpQSGh2Z0pYZ0tSUW14eko0d18za1dVTGZncUpYdW9XZmJab2xsbGxzUmZ0RnUzLThBIIEC; bili_jct=9ef67647fc2a240774ff69dafd8aeb04; sid=oypapai8; home_feed_column=4; browser_resolution=819-1292; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDkyNjk0MzcsImlhdCI6MTcwOTAxMDE3NywicGx0IjotMX0.zMny0q8uSBVbuzFXIpiht-0-zhhjunWYpscZAOWJiXM; bili_ticket_expires=1709269377; buvid_fp=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "./lib/TK.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
+			"ext": "./lib/TK.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "土豆",
@@ -1681,17 +1681,17 @@
 		{
 			"name": "shenx",
 			"type": 0,
-			"url": "http://sx.liuyun.wang:88/zb.txt",
+			"url": "http://www.liuyunw.com:88/zb.txt",
 			"playerType": 1,
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "嗅探",
+			"name": "zidong",
 			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
 			"type": 0,
-			"url": "https://xhdwc.tk/xiutan.m3u"
+			"url": "https://raw.cachefly.998111.xyz/ACaringPeople/tvzhibo/main/windows/itv.exe"
 		}
 	]
 }
