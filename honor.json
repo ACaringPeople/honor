@@ -22,6 +22,18 @@
 			"ext": "./lib/market.json"
 		},
 		{
+      "key": "xiaoyi",
+      "name": "🍒田|小姨音乐",
+      "type": 4,
+      "api": "https://catbox.n13.club/wy.php"
+    },
+    {
+      "key": "yinyue",
+      "name": "🍒田|音乐",
+      "type": 4,
+      "api": "https://catbox.n13.club/yyy.php"
+    },
+		{
 			"key": "csp_qiumi",
 			"name": "🍒田|Jrs球迷",
 			"type": 3,
