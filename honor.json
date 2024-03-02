@@ -491,6 +491,15 @@
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 		{
+			"key": "追剧",
+			"name": "🍒田|追剧App",
+			"type": 3,
+			"jar": "./jar/pg.jar",
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://app.kzjtv.com$$$null$$$1"
+		},
+		{
 			"key": "csp_Czzy",
 			"name": "🍒田|厂长搜索",
 			"type": 3,
